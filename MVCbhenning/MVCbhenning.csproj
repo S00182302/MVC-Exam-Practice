@@ -173,6 +173,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\MVCContext\201912192102128_InitialMigration.cs" />
+    <Compile Include="Migrations\MVCContext\201912192102128_InitialMigration.Designer.cs">
+      <DependentUpon>201912192102128_InitialMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\MVCContext\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
@@ -261,6 +266,11 @@
       <Project>{5a73b64b-e21e-4b6e-a9ba-16ad9996e395}</Project>
       <Name>ConsoleBHenning</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\MVCContext\201912192102128_InitialMigration.resx">
+      <DependentUpon>201912192102128_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

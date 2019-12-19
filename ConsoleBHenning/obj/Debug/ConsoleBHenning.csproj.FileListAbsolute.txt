@@ -1,0 +1,12 @@
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\bin\Debug\ConsoleBHenning.exe.config
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\bin\Debug\ConsoleBHenning.exe
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\bin\Debug\ConsoleBHenning.pdb
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\bin\Debug\EntityFramework.dll
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\bin\Debug\EntityFramework.xml
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\obj\Debug\ConsoleBHenning.csprojAssemblyReference.cache
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\obj\Debug\ConsoleBHenning.csproj.CoreCompileInputs.cache
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\obj\Debug\ConsoleBHenning.csproj.CopyComplete
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\obj\Debug\ConsoleBHenning.exe
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\ConsoleBHenning\obj\Debug\ConsoleBHenning.pdb

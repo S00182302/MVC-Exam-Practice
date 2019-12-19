@@ -8,10 +8,9 @@ using System.Threading.Tasks;
 
 namespace Business.DomainClasses.bhenning.Models
 {
-    class AccountType
+    public class AccountType
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { get; set; }
         public String TypeName { get; set; }
         public String Conditions { get; set; }

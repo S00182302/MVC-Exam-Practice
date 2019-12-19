@@ -21,7 +21,7 @@ namespace MVCbhenning.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("BankConnection", throwIfV1Schema: false)
         {
         }
 

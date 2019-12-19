@@ -49,15 +49,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ClassContext.cs" />
+    <Compile Include="Migrations\DataContext\201912192056318_Initial-Migration.cs" />
+    <Compile Include="Migrations\DataContext\201912192056318_Initial-Migration.Designer.cs">
+      <DependentUpon>201912192056318_Initial-Migration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\DataContext\Configuration.cs" />
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\AccountType.cs" />
     <Compile Include="Models\Customer.cs" />
-    <Compile Include="Models\Transactions.cs" />
+    <Compile Include="Models\Transaction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\DataContext\201912192056318_Initial-Migration.resx">
+      <DependentUpon>201912192056318_Initial-Migration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

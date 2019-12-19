@@ -1,0 +1,14 @@
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\bin\Debug\Business.DomainClasses.bhenning.dll.config
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\bin\Debug\Business.DomainClasses.bhenning.dll
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\bin\Debug\Business.DomainClasses.bhenning.pdb
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\bin\Debug\EntityFramework.dll
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\bin\Debug\EntityFramework.xml
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\obj\Debug\Business.DomainClasses.bhenning.csprojAssemblyReference.cache
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\obj\Debug\Business.DomainClasses.bhenning.csproj.CoreCompileInputs.cache
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\obj\Debug\Business.DomainClasses.bhenning.csproj.CopyComplete
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\obj\Debug\Business.DomainClasses.bhenning.dll
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\obj\Debug\Business.DomainClasses.bhenning.pdb
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\obj\Debug\Business.DomainClasses.bhenning.Migrations.DataContext.InitialMigration.resources
+D:\Documents\_IT Sligo\Semester5\RAD\Exam preparation\RAD301examPractice\Business.DomainClasses.bhenning\obj\Debug\Business.DomainClasses.bhenning.csproj.GenerateResource.cache

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Business.DomainClasses.bhenning.Models
 {
-    class Account
+    public class Account
     {
         [Key]
         public int ID { get; set; }
